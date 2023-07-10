@@ -1,4 +1,3 @@
-
 name: Manually trigger an Azure Machine Learning job
 
 on: workflow_dispatch
